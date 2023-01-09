@@ -1,0 +1,14 @@
+.signup {
+    margin-right: 0;
+}
+
+.signup-input {
+
+position:absolute;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+border: 2px solid black;
+border-radius: 10px;
+padding: 20px;
+}
